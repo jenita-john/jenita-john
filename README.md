@@ -6,7 +6,7 @@
 
 - 📁 I’m currently a software engineering intern at [Rapid7]
 - 🌱 Fellow at [Rewriting the Code] for the year 2020 -2021 
-- 📖 I'm currently learning Network and Security Concepts 
+- 📖 I'm currently learning Networking and Security Concepts 
 - 🤔 I’m looking for help with gaining more knowledge on various Network Monitoring tools & Software
 - 😄 Pronouns: She/Her 
 - 📫 How to reach me: [Jenita John]
