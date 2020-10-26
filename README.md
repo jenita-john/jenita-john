@@ -2,7 +2,6 @@
 
 <!--
 **JenitaJohn6/JenitaJohn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 ### I'm a Computer Engineering Student, Software Engineering Intern and CyberSecurity Enthusiast 👩‍💻
 
 - 📁 I’m currently a software engineering intern at [Rapid7]
@@ -14,10 +13,8 @@
 - ⚡ Fun fact: I love chess and I can play piano 
 - 📚 Goals for 2021: Read more books 
 
-[Rapid7]: https://www.rapid7.com/
-[Rewriting the Code]: https://rewritingthecode.org/fellowship/
-[Jenita John]: https://www.linkedin.com/in/jenitajohn/
 <br />
+
 ### Language and Tools:
 <img align="left" alt="wireshark" width="26px" src="https://user-images.githubusercontent.com/55056316/97128965-17bd5180-1714-11eb-8597-c8e30a81a412.png" />
 <img align="left" alt="graphQl" width="26px" src="https://user-images.githubusercontent.com/55056316/97129545-818a2b00-1715-11eb-847d-d87bb03a9208.png" />
@@ -28,4 +25,8 @@
 <img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/55056316/97129742-09703500-1716-11eb-9681-7371c0fcb3f0.png" />
 <img align="left" alt="GoogleAppScript" width="50px" src="https://user-images.githubusercontent.com/55056316/97129884-59e79280-1716-11eb-9c99-1c171955adc3.png" />
 <img align="left" alt="Java" width="46px" src="https://user-images.githubusercontent.com/55056316/97129942-7e436f00-1716-11eb-91d2-3cf0cf57a78f.png" />
-<br />
+
+
+[Rapid7]: https://www.rapid7.com/
+[Rewriting the Code]: https://rewritingthecode.org/fellowship/
+[Jenita John]: https://www.linkedin.com/in/jenitajohn/
