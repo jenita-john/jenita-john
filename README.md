@@ -12,6 +12,7 @@
 - 📫 How to reach me: [Jenita John]
 - ⚡ Fun fact: I love chess and I can play piano 
 - 📚 Goals for 2021: Read more books 
+- 📚 Software books I recommend: [Clean Code], [ProGit]
 
 <br />
 
@@ -30,3 +31,5 @@
 [Rapid7]: https://www.rapid7.com/
 [Rewriting the Code]: https://rewritingthecode.org/fellowship/
 [Jenita John]: https://www.linkedin.com/in/jenitajohn/
+[Clean Code]: https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+[ProGit]:https://git-scm.com/book/en/v2
