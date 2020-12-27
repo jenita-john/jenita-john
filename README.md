@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Jenita John]
 - ⚡ Fun fact: I love chess and I can play piano 
 - 📚 Goals for 2021: Read more books 
-- 📚 Software books I recommend: [Clean Code], [ProGit]
+- :raised_hands: Software books I recommend: [Clean Code], [ProGit]
 
 <br />
 
