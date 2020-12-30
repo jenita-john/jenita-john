@@ -13,6 +13,8 @@
 - ⚡ Fun fact: I love chess and I can play piano 
 - 📚 Goals for 2021: Read more books 
 - :raised_hands: Software books I recommend: [Clean Code], [ProGit]
+<img align="left" alt="wireshark" src="https://img.shields.io/badge/hello__msg-hello-blue" />
+
 
 <br />
 
