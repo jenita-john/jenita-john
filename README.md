@@ -1,4 +1,4 @@
-### Hi there, I'm Jenita 👋
+### Hi there, I'm Jenita John 👋
 
 <!--
 **JenitaJohn6/JenitaJohn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
