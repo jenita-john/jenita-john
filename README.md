@@ -29,7 +29,7 @@
 
 
 [Rapid7]: https://www.rapid7.com/
-[Rewriting the Code]: https://rewritingthecode.org/fellowship/
+[Rewriting the Code]:https://rewritingthecode.org/
 [Jenita John]: https://www.linkedin.com/in/jenitajohn/
 [Clean Code]: https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 [ProGit]:https://git-scm.com/book/en/v2
