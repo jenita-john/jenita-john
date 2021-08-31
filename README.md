@@ -1,4 +1,4 @@
-### Hi there, I'm Jenita John 👋
+<h1 align="center"> Hi there, I'm Jenita John <img src="https://user-images.githubusercontent.com/55056316/131539927-6101dd2b-c2df-477d-92aa-cd7c35845eb8.gif" width="35"> </h1>
 
 <!--
 **JenitaJohn6/JenitaJohn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
