@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/Her 
 - 📫 How to reach me: [Jenita John]
 - ⚡ Fun fact: I love chess and I can play piano 
-- 📚 Goals for 2021: Read more books 
+- 📚 Goals for 2022: Read more books 
 - :raised_hands: Interests: Software, Security, Network, DevOps
 
 <br />
