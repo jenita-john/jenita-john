@@ -2,7 +2,7 @@
 
 <!--
 **JenitaJohn6/JenitaJohn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### I'm a Computer Engineering Student 👩‍💻
+### I'm a Computer Engineering Graduate 👩‍💻
 
 - 📁 Completed 16 months internship at [Rapid7] as a Software Engineer.
 - 🌱 Fellow at [Rewriting the Code]
