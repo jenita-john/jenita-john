@@ -2,9 +2,10 @@
 
 <!--
 **JenitaJohn6/JenitaJohn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### I'm a Computer Engineering Graduate 👩‍💻
+### Software Engineer👩‍💻
 
-- 📁 Completed 16 months internship at [Rapid7] as a Software Engineer.
+- 👩🏽‍🎓 Computer Engineering Graduate 2022
+- 📁 Interned [Rapid7] as a Software Engineer
 - 🌱 Fellow at [Rewriting the Code]
 - 😄 Pronouns: She/Her 
 - 📫 How to reach me: [Jenita John]
