@@ -5,13 +5,10 @@
 ### Software Engineer👩‍💻
 
 - 👩🏽‍🎓 Computer Engineering Graduate 2022
-- 📁 Interned [Rapid7] as a Software Engineer
-- 🌱 Fellow at [Rewriting the Code]
+- 📁 Interned @ [Rapid7] as a Software Engineer
+- 🌱 [Rewriting the Code] Member
 - 😄 Pronouns: She/Her 
 - 📫 How to reach me: [Jenita John]
-- ⚡ Fun fact: I love chess and I can play piano 
-- 📚 Goals for 2022: Read more books 
-- :raised_hands: Interests: Software, Security, Network, DevOps
 
 <br />
 
