@@ -9,6 +9,7 @@
 - 🌱 [Rewriting the Code] Member
 - 😄 Pronouns: She/Her 
 - 📫 How to reach me: [Jenita John]
+Portfolio: https://jenita-john.github.io/
 
 <br />
 
